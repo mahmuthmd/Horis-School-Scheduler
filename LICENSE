@@ -1,0 +1,33 @@
+HORIS SOFTWARE - HYBRID LICENSE AGREEMENT
+
+Copyright (c) 2026 Mahmut Hamidi. All rights reserved.
+
+This repository is subject to a split-licensing model outlined below:
+
+---------------------------------------------------------------------------------
+1. OPTIMIZATION CORE ENGINE (DersProgramiUI/Engine/CozucuMotor.cs & Models/)
+---------------------------------------------------------------------------------
+The algorithmic solver files, mathematical constraint models, and solver domain 
+definitions located in the "Engine" and "Models" directories are licensed under 
+the MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of these specific files, to use, copy, modify, merge, publish, and distribute 
+them without restriction, subject to the condition that the original copyright 
+notice and this permission notice shall be included in all copies.
+
+---------------------------------------------------------------------------------
+2. APPLICATION, USER INTERFACE & COMMERCIAL RIGHTS (All Other Files)
+---------------------------------------------------------------------------------
+All other files, including but not limited to WPF XAML interfaces, window logics 
+(MainWindow, dialogs), design assets, database/backend bindings, and the full 
+integrated software executable/system, are proprietary:
+
+- Strictly Prohibited: Reproduction, redistributing, turnkey copying (copy-paste), 
+  sublicensing, white-labeling, or commercially selling this application as a 
+  whole or any of its UI/operational components without explicit written permission 
+  from the author.
+- Permitted: Viewing, compiling, and running locally solely for educational, 
+  evaluation, and portfolio review purposes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
